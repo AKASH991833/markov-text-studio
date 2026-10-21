@@ -31,6 +31,15 @@ Markov chains remix patterns — they do not understand meaning. Quality grows w
 
 Vanilla HTML/CSS/JS. No dependencies, no build step, no server. Free on GitHub Pages.
 
+## Run it yourself
+
+Any static server works:
+
+```bash
+python3 -m http.server 8000
+# open http://localhost:8000
+```
+
 ---
 
 Built by [Akash Vishwakarma](https://github.com/AKASH991833)
