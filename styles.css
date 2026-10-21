@@ -1,0 +1,7 @@
+.gen-line{display:flex;gap:10px;align-items:flex-start;background:var(--bg-soft);border:1px solid var(--border);border-radius:var(--r-sm);padding:14px 16px}
+.gen-line p{flex:1;font-size:15px;line-height:1.6;font-family:var(--font-disp);font-weight:600}
+.gen-acts{display:flex;gap:6px}
+.gen-acts .icon-btn{width:32px;height:32px;border-radius:8px}
+.gen-acts svg{width:15px;height:15px}
+input[type=range]{accent-color:var(--accent)}
+@media(max-width:900px){#studio-grid{grid-template-columns:1fr!important}}

@@ -1,0 +1,28 @@
+{
+ "name": "Markov Text Studio \u2014 AI Text Generator",
+ "short_name": "Markov Studio",
+ "description": "Train a Markov chain on your own text and generate new lines instantly. Order, temperature and style controls. Free and private.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#9333ea",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
